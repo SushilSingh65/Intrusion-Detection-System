@@ -108,17 +108,14 @@ python app.py
 
 sudo python3 app.py
 
-## 📸 Dashboard Screenshot
-
-<img src="dashboard_screenshot.png" alt="Dashboard" width="100%" />
-
-
-
-
-
 📜 License
 This project is built for educational use only. Unauthorized use of network monitoring or scanning may be illegal. Always take permission before testing on any network.
 
 👤 Contact
 📧 Email: sm6815765@gmail.com 
 📍 IKGPTU, Amritsar Campus
+
+
+## 📸 Dashboard Screenshot
+
+<img src="dashboard_screenshot.png" alt="Dashboard" width="100%" />
