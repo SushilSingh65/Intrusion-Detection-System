@@ -110,7 +110,7 @@ sudo python3 app.py
 
 ## 📸 Dashboard Screenshot
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](dashboard_screenshot.PNG)
 
 
 
