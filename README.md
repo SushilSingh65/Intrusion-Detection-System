@@ -110,7 +110,8 @@ sudo python3 app.py
 
 ## 📸 Dashboard Screenshot
 
-![Dashboard](dashboard_screenshot.png)
+<img src="dashboard_screenshot.png" alt="Dashboard" width="100%" />
+
 
 
 
