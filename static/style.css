@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background: #f9f9f9;
+}
+h1 {
+    color: #333;
+}
+.controls {
+    margin-bottom: 15px;
+}
+button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+.log-box {
+    height: 500px;
+    overflow-y: scroll;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+.log-entry {
+    padding: 5px;
+    margin: 3px 0;
+    border-left: 5px solid;
+}
+.red {
+    border-color: red;
+    background: #ffe5e5;
+}
+.yellow {
+    border-color: orange;
+    background: #fff9e6;
+}
