@@ -108,6 +108,12 @@ python app.py
 
 sudo python3 app.py
 
+## 📸 Dashboard Screenshot
+
+![Dashboard](dashboard_screenshot.png)
+
+
+
 
 📜 License
 This project is built for educational use only. Unauthorized use of network monitoring or scanning may be illegal. Always take permission before testing on any network.
