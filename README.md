@@ -1,16 +1,16 @@
-<<<<<<< HEAD
+HEAD
 # Intrusion-Detection-System
 Python-based Intrusion Detection System with real-time alerts, GeoIP tracking, Flask dashboard, and more.
-=======
-<<<<<<< HEAD
+
+HEAD
 # Intrusion-Detection-System
 Python-based Intrusion Detection System with real-time alerts, GeoIP tracking, Flask dashboard, and more.
-=======
+
 # 🛡️ Intrusion Detection System (IDS)
 
 This project is a **Python-based Intrusion Detection System (IDS)** that monitors real-time network traffic to detect suspicious activities like TCP port scans, Web Directory Enumerations etc. It logs alerts, plays sirens, sends emails, and identifies the source using GeoIP lookup — all built with modular, multi-threaded components.
 
----
+
 
 ## 📌 Project Info
 
@@ -20,7 +20,7 @@ This project is a **Python-based Intrusion Detection System (IDS)** that monitor
 - **Guide:** Dr. Vipul Sharma  
 - **Title:** Intrusion Detection System using Python, Scapy, and Flask
 
----
+
 
 ## 🚀 Features
 
@@ -41,7 +41,7 @@ This project is a **Python-based Intrusion Detection System (IDS)** that monitor
   - `email_alert.py`
   - `enum_detector.py`
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -53,7 +53,7 @@ This project is a **Python-based Intrusion Detection System (IDS)** that monitor
 - **Flask** *(optional - for dashboard)*
 - Threading, Signal handling, Socket
 
----
+
 
 ## 📁 File Structure
 
@@ -86,13 +86,13 @@ Intrusion-Detection-System/
 
 
 
----
+
 
 ## ⚙️ How to Use
 
 ### 🔹 Clone the Repo
 
-```bash
+bash
 git clone https://github.com/SushilSingh65/Intrusion-Detection-System
 cd Intrusion-Detection-System
 
