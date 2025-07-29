@@ -2,9 +2,6 @@ HEAD
 # Intrusion-Detection-System
 Python-based Intrusion Detection System with real-time alerts, GeoIP tracking, Flask dashboard, and more.
 
-HEAD
-# Intrusion-Detection-System
-Python-based Intrusion Detection System with real-time alerts, GeoIP tracking, Flask dashboard, and more.
 
 # 🛡️ Intrusion Detection System (IDS)
 
